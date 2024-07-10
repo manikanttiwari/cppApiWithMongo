@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/manikanttiwari/Desktop/Personal/metaflare/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DCPPREST_FORCE_HTTP_CLIENT_ASIO -DCPPREST_FORCE_HTTP_LISTENER_ASIO -DCPPREST_NO_SSL_LEAK_SUPPRESS -I/opt/homebrew/Cellar/openssl@3/3.3.1/include -I/Users/manikanttiwari/Desktop/Personal/metaflare/lib/fmt/include -I/Users/manikanttiwari/Desktop/Personal/metaflare/src -I/opt/homebrew/include/mongocxx/v_noabi -I/opt/homebrew/include/bsoncxx/v_noabi -I/opt/homebrew/Cellar/mongo-cxx-driver/3.10.2/include/bsoncxx/v_noabi/bsoncxx/third_party/mnmlstc -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/meta-flare.dir/src/main.cpp.o -c /Users/manikanttiwari/Desktop/Personal/metaflare/src/main.cpp",
+  "file": "/Users/manikanttiwari/Desktop/Personal/metaflare/src/main.cpp",
+  "output": "CMakeFiles/meta-flare.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/manikanttiwari/Desktop/Personal/metaflare/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/opt/homebrew/Cellar/openssl@3/3.3.1/include -I/Users/manikanttiwari/Desktop/Personal/metaflare/lib/fmt/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o lib/fmt/CMakeFiles/fmt.dir/src/format.cc.o -c /Users/manikanttiwari/Desktop/Personal/metaflare/lib/fmt/src/format.cc",
+  "file": "/Users/manikanttiwari/Desktop/Personal/metaflare/lib/fmt/src/format.cc",
+  "output": "lib/fmt/CMakeFiles/fmt.dir/src/format.cc.o"
+},
+{
+  "directory": "/Users/manikanttiwari/Desktop/Personal/metaflare/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -I/opt/homebrew/Cellar/openssl@3/3.3.1/include -I/Users/manikanttiwari/Desktop/Personal/metaflare/lib/fmt/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o lib/fmt/CMakeFiles/fmt.dir/src/os.cc.o -c /Users/manikanttiwari/Desktop/Personal/metaflare/lib/fmt/src/os.cc",
+  "file": "/Users/manikanttiwari/Desktop/Personal/metaflare/lib/fmt/src/os.cc",
+  "output": "lib/fmt/CMakeFiles/fmt.dir/src/os.cc.o"
+}
+]
